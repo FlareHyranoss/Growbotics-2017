@@ -61,3 +61,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.lock
+Emile/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index
+*.prefs
+Emile/.metadata/version.ini
+*.xml
